@@ -1,5 +1,5 @@
 file for making and resolving conflict exercise
 line 1
-line 2
+line 2 edited in vim in git-bash for making conflict
 line 3
 line 4
